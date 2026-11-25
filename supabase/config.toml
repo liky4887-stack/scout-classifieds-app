@@ -1,0 +1,3 @@
+[functions.scout-worker]
+verify_jwt = false
+entrypoint = "./functions/scout-worker/index.ts"
